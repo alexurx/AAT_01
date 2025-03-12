@@ -1,0 +1,62 @@
+[
+    {
+        "question": "Какой год считается началом WWW?",
+        "answers": ["1983", "1991", "2000", "2010"],
+        "correct": [1],
+        "type": "single"
+    },
+    {
+        "question": "Какие языки относятся к веб-разработке?",
+        "answers": ["HTML", "Python", "CSS", "Java"],
+        "correct": [0, 2],
+        "type": "multiple"
+    },
+    {
+        "question": "Какой протокол используется для передачи веб-страниц?",
+        "answers": ["FTP", "HTTP", "SMTP", "SSH"],
+        "correct": [1],
+        "type": "single"
+    },
+    {
+        "question": "Какие теги используются в HTML?",
+        "answers": ["<div>", "<span>", "<loop>", "<table>"],
+        "correct": [0, 1, 3],
+        "type": "multiple"
+    },
+    {
+        "question": "Что означает CSS?",
+        "answers": ["Cascading Style Sheets", "Computer Style Syntax", "Creative Styling System", "Colorful Site Sheets"],
+        "correct": [0],
+        "type": "single"
+    },
+    {
+        "question": "Какой язык программирования является основным для работы с базами данных?",
+        "answers": ["JavaScript", "SQL", "C++", "Ruby"],
+        "correct": [1],
+        "type": "single"
+    },
+    {
+        "question": "Какие фреймворки относятся к PHP?",
+        "answers": ["Laravel", "Django", "Symfony", "React"],
+        "correct": [0, 2],
+        "type": "multiple"
+    },
+    {
+        "question": "Что такое API?",
+        "answers": ["Application Programming Interface", "Automated Process Integration", "Advanced Programming Instruction", "Active Protocol Interface"],
+        "correct": [0],
+        "type": "single"
+    },
+    {
+        "question": "Какие из следующих элементов являются базовыми в HTML?",
+        "answers": ["<p>", "<h1>", "<print>", "<ul>"],
+        "correct": [0, 1, 3],
+        "type": "multiple"
+    },
+    {
+        "question": "Какой язык программирования чаще всего используется для клиентской части веб-приложений?",
+        "answers": ["Python", "JavaScript", "PHP", "Go"],
+        "correct": [1],
+        "type": "single"
+    }
+]
